@@ -1,5 +1,5 @@
 
-> Otevřít tuto stránku v aplikaci [https://tomaskazda.github.io/pxt-roborace/](https://tomaskazda.github.io/pxt-roborace/)
+> Otevřít tuto stránku v aplikaci [https://tomas-rada.github.io/autonom-car/](https://tomas-rada.github.io/autonom-car/)
 
 ## Použít jako rozšíření
 
@@ -8,7 +8,7 @@ Tento repozitář lze přidat jako **rozšíření** v aplikaci MakeCode.
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Nový projekt**
 * klikněte na možnost **Rozšíření** v nabídce s ozubeným kolem
-* vyhledat **https://github.com/tomaskazda/pxt-roborace** a importovat
+* vyhledat **https://github.com/tomas-rada/autonom-car** a importovat
 
 ## Upravit tento projekt
 
@@ -16,7 +16,7 @@ Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Import** a poté na **Import adresy URL**
-* vložte **https://github.com/tomaskazda/pxt-roborace** a klikněte na možnost import
+* vložte **https://github.com/tomas-rada/autonom-car** a klikněte na možnost import
 
 #### Metadata (slouží k vyhledávání, vykreslování)
 

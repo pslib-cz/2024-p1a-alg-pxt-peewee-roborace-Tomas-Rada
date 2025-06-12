@@ -1,14 +1,16 @@
 {
-    "name": "pxt-roborace",
+    "name": "Autonom car",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
         "pxt-magicbit-pca9685": "github:microbit-cz/pxt-magicbit-pca9685#1.0.0",
-        "pxt-sensors": "github:TomasKazda/pxt-sensors#1.0.0"
+        "pxt-sensors": "github:TomasKazda/pxt-sensors#a4146d725fe882187db670cb094772d4e747a220",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6"
     },
     "files": [
+        "main.blocks",
         "main.ts",
         "README.md"
     ],
@@ -22,6 +24,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
-    "languageRestriction": "javascript-only"
+    "preferredEditor": "tsprj"
 }
